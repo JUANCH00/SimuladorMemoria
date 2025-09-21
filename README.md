@@ -22,5 +22,4 @@ Permite gestionar procesos, asignarles memoria, traducir direcciones lógicas a 
 1. Clona este repositorio:
 
 ```bash
-git clone https://github.com/TU-USUARIO/simulador-memoria.git
-cd simulador-memoria
+git clone https://github.com/JUANCH00/SimuladorMemoria.git
